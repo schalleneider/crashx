@@ -11,7 +11,7 @@ Visit downloads page to download the last stable version of the source code, wit
 
 ## Remarks
 
-* In order to run CrashX properly, add the below Java Virtual Machine parameters to execute the Main class, or you will get an Exception from JVM Stack:
+In order to run CrashX properly, add the below Java Virtual Machine parameters to execute the Main class, or you will get an Exception from JVM Stack:
 
 ```
 -Xms64m 
